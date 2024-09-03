@@ -1,7 +1,3 @@
-Here's an updated `README.md` tailored for your "Dynamic-TMS" project on GitHub:
-
----
-
 # Dynamic Task Management System (Dynamic-TMS)
 
 ![Dynamic-TMS Screenshot](https://github.com/rahatcodes/Dynamic-TMS/blob/main/Dynamic-TMS.png)
@@ -81,4 +77,4 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/rahatcodes/Dynamic-TMS/blob/main/LICENSE) file for more details.
 
-#Live Site: [Link](https://dynamictms.netlify.app/)
+# Live Site: [Link](https://dynamictms.netlify.app/)
