@@ -80,3 +80,5 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/rahatcodes/Dynamic-TMS/blob/main/LICENSE) file for more details.
+
+#Live Site: [Link](https://dynamictms.netlify.app/)
