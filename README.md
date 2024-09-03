@@ -79,4 +79,4 @@ Contributions are welcome! To contribute:
 6. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rahatcodes/Dynamic-TMS/blob/main/LICENSE) file for more details.
