@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Management System</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>TASK MANAGEMENT SYSTEM</h2>
+        </div>
+        <p id="date"></p>
+        <div class="task-input">
+            <input type="text" id="taskName" placeholder="Tasks">
+            <input type="number" id="priority" placeholder="Priority" min="1" max="10">
+            <button id="addTaskButton">Add Task</button>
+        </div>
+
+        <ul id="taskList" class="task-list">
+            <p>Your Tasks:</p>
+        </ul>
+
+        <button id="doneButton" class="done-btn">DONE</button>
+    
+</div>
+
+    <script src="app.js"></script>
+</body>
+</html>
